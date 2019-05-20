@@ -14,7 +14,7 @@ See: [IP]
 
 [IP]: https://en.wikipedia.org/wiki/Intentional_programming "Intentional Programming"
 
-### Summary
+## Summary
 
 Store 'objects' in memory/database instead of a file system, including
 - Object dependency
@@ -53,7 +53,7 @@ A **real object** contains source code and (compiled) object code (bytecode).
 Compiling an object is recursive compilation of all invalid objects the object depends on, and the object itself.
 
 
-### Design goals
+## Design goals
 
 1. **Maintainance**
 
@@ -91,9 +91,9 @@ Those parts of the build system that can not be automatically detected and trans
 OPM code repositories can be exported from OPM into a flat file repository or versioning system (...) and an external build system (configuration and make files) can be semi-automatically generated for most common build systems. For (possible) future (re)imports an OPM import file is supplied too.
 
 
-### Introduction
+## Introduction
 
-*Relational storage system instead of flat files*
+### *Relational storage system instead of flat files*
 
 Most programming languages and environments and development tools operate on source text as *flat files*.
 
@@ -107,10 +107,10 @@ If we treat objects as seperate things, with each object having its own dependen
 
 In the OPM model such dependencies are *generically intrinsic* and built into the OPM IDE.
 
-*Integrated versioning system*
+### *Integrated versioning system*
 
 
-*Integrated build system*
+### *Integrated build system*
 
 A target object is the result of the invocation of some version of a process (which is also an object) which uses a version of parameter set for input values (which is also an object) and a set of source files (which are also versioned objects).
  
@@ -124,7 +124,7 @@ If the compilation is succesfull, all objects dependend on this object will be r
 
 The editor behaviour of automatic recompilation of dependend objects is adjustable and can be set to be postponed untill the end of the edit session, to avoid unnecessary multiple recompilation of the same object. For interactive sessions though automatic recompilation is a handy feature to check for errors as soon as possible. 
 
-*Identifying objects*
+### *Identifying objects*
 
 Objects are not identified by name but by UUID. Names of objects are just labels. So objects can have same names but different UUID.
 In the editor such ambiguous names are resolved by qualifying the names with the namespace the object belongs to and requiring that within
@@ -134,4 +134,5 @@ Renaming objects then becomes a trivial task since renaming an object only repla
 
 One disadvantage would be that while textual search/replace can also (correctly) rename text in comments, the OPM editor would not touch comments. One way of accomodating for that wanted behaviour is to allow within comments such tagged fields which automatically display text such as objectnames correctly as they refer to the object UUID.
 
+---
 (to be finished later)
