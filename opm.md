@@ -91,7 +91,7 @@ Those parts of the build system that can not be automatically detected and trans
 OPM code repositories can be exported from OPM into a flat file repository or versioning system (...) and an external build system (configuration and make files) can be semi-automatically generated for most common build systems. For (possible) future (re)imports an OPM import file is supplied too.
 
 
-## Introduction
+## Introduction to OPM
 
 ### *Relational storage system instead of flat files*
 
