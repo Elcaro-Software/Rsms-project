@@ -1,10 +1,8 @@
 # ELCARO project
----
 
 OPM is part of Elcaro Project. Further reading: (will be supplied later).
 
 ## OPM - Object Process Model
----
 
 Tags: *Source control*, *Make/Build*, *Version system*, *Editor*, *IDE*
 
@@ -15,7 +13,6 @@ Note: Shares similararity with the concept of Intentional Programming (IP), stor
 See: [intentional programming] (https://en.wikipedia.org/wiki/Intentional_programming)
 
 ### Summary
----
 
 Store 'objects' in memory/database instead of a file system, including
 - Object dependency
@@ -55,7 +52,6 @@ Compiling an object is recursive compilation of all invalid objects the object d
 
 
 ### Design goals
----
 
 1. **Maintainance**
 
@@ -94,7 +90,6 @@ OPM code repositories can be exported from OPM into a flat file repository or ve
 
 
 ### Introduction
----
 
 *Relational storage system instead of flat files*
 
