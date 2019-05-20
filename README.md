@@ -2,7 +2,7 @@
 
 Project: Elcaro
 
-Subproject: OPM
+Subproject: OPM - Object Process Model
 
 Status: Unfinished (no code yet)
 
