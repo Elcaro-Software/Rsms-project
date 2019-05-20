@@ -4,7 +4,11 @@ Project: Elcaro
 
 Subproject: OPM - Object Process Model
 
-Status: Unfinished (no code yet)
+Status: Unfinished (no code yet). See: [History]
+
+[History]: https://github.com/Elcaro-Software/opm/blob/master/HISTORY.md
+
+Start date: 21 may 2019
 
 ## Short Description
 
