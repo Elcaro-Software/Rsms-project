@@ -6,4 +6,6 @@ Subproject: OPM
 
 Status: Unfinished (no code yet)
 
-See: [OPM]: https://github.com/Elcaro-Software/opm/blob/master/opm.md "OPM"
+See: [OPM]
+
+[OPM]: https://github.com/Elcaro-Software/opm/blob/master/opm.md "OPM"
