@@ -34,7 +34,9 @@ Second, the OPM model has a finer granularity of object dependency then traditio
 
 ## Relational Software Management System (RSMS)
 
-A *Relational Software Management System* is a software management system that provides ways to enter, change and transform software sources, keep track of changes and build a software system based on an internal storage format for the software sources and accompanying meta-information in an **Relational Database Management System (RDBMS)**.
+A *Relational Software Management System* is a software management system that provides ways to enter, change and transform software sources, keep track of changes and build a software system based on an internal storage format for the software sources and accompanying meta-information in a **Relational Database Management System (RDBMS)**. See: [RDBMS]
+
+[RDBMS]: https://en.wikipedia.org/wiki/Relational_database "Relationa Database"
 
 ## Further reading
 
