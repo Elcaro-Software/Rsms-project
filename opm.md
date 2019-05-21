@@ -50,7 +50,7 @@ For example the following is a valid view of this code example:
 
 A **real object** contains source code and (compiled) object code (bytecode).
 
-Compiling an object is recursive compilation of all invalid objects the object depends on, and the object itself.
+Compiling an object is a recursive compilation of all invalid objects the object depends on, and the object itself.
 
 
 ## Design goals
@@ -90,7 +90,6 @@ Those parts of the build system that can not be automatically detected and trans
 
 OPM code repositories can be exported from OPM into a flat file repository or versioning system (...) and an external build system (configuration and make files) can be semi-automatically generated for most common build systems. For (possible) future (re)imports an OPM import file is supplied too.
 
-
 ## Introduction to OPM
 
 ### *Relational storage system instead of flat files*
@@ -101,14 +100,15 @@ In traditional (flat file) based development systems recompilation of source cod
 
 For small size projects, the difference is not noticable, due to the compilation speed of most compilers in use today. But for large or ultra-large projects, the difference may become noticable.
 
-Also for other operations like including header files or linking to external libraries, require that these objects (compiled or source) are treated as files, not objects.
+Also for other operations like including header files or linking to external libraries, traditional build systems and versioning systems require that these objects (compiled or source) are treated as files, not objects.
 
-If we treat objects as seperate things, with each object having its own dependency list, and also include the versioning of objects (different versions of the same object can have different dependency lists) this eliminates the need for external tools for keeping versions (like git, svn) and make/build tools for which we have to give explicit information about the dependency of targets (expressed as make rules).
+If we treat objects as seperate entities, with each object having its own dependency list, and also include the versioning of objects (different versions of the same object can have different dependency lists) this eliminates the need for external tools for keeping versions (like git, svn) and make/build tools for which we have to give explicit information about the dependency of targets (expressed as make rules) because this kind of meta-information is already provided during editing of the source text.
 
-In the OPM model such dependencies are *generically intrinsic* and built into the OPM IDE.
+In the OPM model such dependencies are **generically intrinsic** and built into the OPM IDE.
 
 ### *Integrated versioning system*
 
+The OPM IDE is itself a versioning system in that it keeps track of previous versions of objects. Updating an object merely means that a new version of the object gets created. 
 
 ### *Integrated build system*
 
@@ -126,13 +126,19 @@ The editor behaviour of automatic recompilation of dependend objects is adjustab
 
 ### *Identifying objects*
 
-Objects are not identified by name but by UUID. Names of objects are just labels. So objects can have same names but different UUID.
-In the editor such ambiguous names are resolved by qualifying the names with the namespace the object belongs to and requiring that within
-each namespace the name of objects are unique.
+Objects are not identified by name but by UUID. Names of objects are just labels. So objects can have same names but different UUID. In the editor such ambiguous names are resolved by qualifying the names with the namespace the object belongs to and requiring that within each namespace the name of objects are unique and requiring that namespaces themselves have unique names per repository.
 
 Renaming objects then becomes a trivial task since renaming an object only replaces the unique instance of a label of that object, and avoids errors that can result from tools that do textual search/replace.
 
-One disadvantage would be that while textual search/replace can also (correctly) rename text in comments, the OPM editor would not touch comments. One way of accomodating for that wanted behaviour is to allow within comments such tagged fields which automatically display text such as objectnames correctly as they refer to the object UUID.
+One disadvantage would be that while textual search/replace can also (correctly) rename text in comments, the OPM editor would not touch comments. One way of accomodating for that wanted behaviour (for example to change the name of a variable in a comment) is to allow within comments tohe embedding of tagged fields which automatically display text such as objectnames correctly as they refer to the object UUID.
+
+### *Session based editting*
+
+Editting of source text in a repository is done by starting a session in the IDE.
+
+Changes made to the repository are unlimited undoable and redoable as all changes done to the repository by a session are stored in a database. OPM allows multiple active sessions to access and update the same repository and even allows multiple sessions to update the same object. Conflicts between updates are resolved using the same methods advanced relational database management systems use to resolve similar types of conflicts. Edit sessions are like transactions in a database - a transaction only sees the changes the transactions made itself but not of other transactions that started later. 
+
 
 ---
+
 (to be finished later)
