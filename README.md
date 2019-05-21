@@ -18,7 +18,7 @@ Start date: 21 may 2019
 
 An advantage of this approach is that a versioning system and build system can be built quite easiliy on top of OPM and be integral part of the IDE, where most other IDE's would rely on external tools for a versioning- and build system.
 
-Also **Issue Tracking (IT)** and **Change Management (CM)** can be built quite easy on top of OPM. A change in **CM** is the resolution for one or more issues in **IT** and an issue is resolved by one or more changes. A **User Session (US)** is applied to a repository to implement one or more changes, and a change can be implemented using one or more **US** on the repository.
+Also **Issue Tracking (IT)** and **Change Management (CM)** can be built quite easy on top of OPM. A change in **CM** is the resolution for one or more issues in **IT** and an issue is resolved by one or more changes. A **User Session (US)** is applied to a repository to implement one or more changes, and a change can be implemented using one or more **User Sessions** on the repository.
 
 ## OPM
 
