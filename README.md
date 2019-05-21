@@ -36,9 +36,7 @@ Second, the OPM model has a finer granularity of object dependency then traditio
 
 ### Further reading
 
-See: [OPM]
-
-[OPM]: https://github.com/Elcaro-Software/opm/blob/master/opm.md "OPM"
+See: [Object Process Model](doc/OPM.md "OPM")
 
 ## Relational Software Management System (RSMS)
 
@@ -48,7 +46,5 @@ A *Relational Software Management System* is a software management system that p
 
 ###  Further reading
 
-See: [RSMS]
-
-[RSMS]: https://github.com/Elcaro-Software/opm/blob/master/rsms.md "RSMS"
+See: [Relational Software Management System](doc/RSMS.md "RSMS")
 
