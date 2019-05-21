@@ -4,6 +4,8 @@ Project: Elcaro
 
 Subproject: OPM - Object Process Model
 
+Type: Relational Software Managament System (RSMS)
+
 Status: Unfinished (no code yet). See: [History]
 
 [History]: https://github.com/Elcaro-Software/opm/blob/master/HISTORY.md
