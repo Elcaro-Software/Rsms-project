@@ -84,11 +84,12 @@ OPM can interact with such repositories by providing tools for:
 * **External import**
 
 External code repositories can be imported into OPM from flat file or most common versioning systems (GIT, SVN, ...) and the type of build system can be semi-automatically detected and translated to OPM.
+
 Those parts of the build system that can not be automatically detected and translated into OPM gets reported when trying to import an external repository, and the missing information can be supplied by providing an OPM configuration import file.
 
 * **External export**
 
-OPM code repositories can be exported from OPM into a flat file repository or versioning system (...) and an external build system (configuration and make files) can be semi-automatically generated for most common build systems. For (possible) future (re)imports an OPM import file is supplied too.
+OPM code repositories can be exported from OPM into a flat file repository or versioning system (...) and an external build system (configuration and make files) can be semi-automatically generated for most common build systems. For (possible) future (re)imports an OPM import config file is supplied too.
 
 ## Introduction to OPM
 
