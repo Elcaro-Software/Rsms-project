@@ -32,14 +32,21 @@ The difference though is that in OPM already during editting of the source text,
 
 Second, the OPM model has a finer granularity of object dependency then traditional build tools (which work on flat files) as source text is not stored as modules, but as individual objects in its grammatical, renormalized form as an **Abstract Syntax Tree (AST)**, so the dependencies are not just defined on the level of modules (files) but on the level of objects.
 
+### Further reading
+
+See: [OPM]
+
+[OPM]: https://github.com/Elcaro-Software/opm/blob/master/opm.md "OPM"
+
 ## Relational Software Management System (RSMS)
 
 A *Relational Software Management System* is a software management system that provides ways to enter, change and transform software sources, keep track of changes and build a software system based on an internal storage format for the software sources and accompanying meta-information in a **Relational Database Management System (RDBMS)**. See: [RDBMS]
 
 [RDBMS]: https://en.wikipedia.org/wiki/Relational_database "Relationa Database"
 
-## Further reading
+###  Further reading
 
-See: [OPM]
+See: [RSMS]
 
-[OPM]: https://github.com/Elcaro-Software/opm/blob/master/opm.md "OPM"
+[RSMS]: https://github.com/Elcaro-Software/opm/blob/master/rsms.md "RSMS"
+
