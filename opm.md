@@ -1,8 +1,4 @@
-# ELCARO project
-
-OPM is part of Elcaro Project. Further reading: (link will be supplied later).
-
-## OPM - Object Process Model
+# OPM - Object Process Model
 
 Tags: *Source control*, *Make/Build*, *Version system*, *Editor*, *IDE*
 
