@@ -6,9 +6,9 @@ Key feature: Applying the features of database renormalization to programming / 
 
 Note: Shares similararity with the concept of Intentional Programming (IP), storing source text in grammatical form (abstract syntax tree or AST). 
 
-See: [IP]
+See: [Intentional Programming]
 
-[IP]: https://en.wikipedia.org/wiki/Intentional_programming "Intentional Programming"
+[Intentional Programming]: https://en.wikipedia.org/wiki/Intentional_programming "Intentional Programming"
 
 ## Summary
 
