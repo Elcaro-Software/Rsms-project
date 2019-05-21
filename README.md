@@ -22,11 +22,11 @@ Also **Issue Tracking (IT)** and **Change Management (CM)** can be built quite e
 
 ## OPM
 
-The Object Process Model starts out from the basic idea that a target Object is the result of the invocation of (some version) of a Process (which in OPM is an Object), using some input parameter set (which in OPN is also considered an Object) and some source object set (which in OPM is also considered to be an Object). In many cases the invocation of a process that creates the target object also creates other objects, so the target object is part of a list of output objects (which also is an Object in OPM).
+The *Object Process Model* starts out from the basic idea that a **Target Object (TO)** is the result of the invocation of (some version) of a **Process Object (PO)** (which in OPM is an Object), using some **Input Parameter Set (IPS)** (which in OPN is also considered an Object) and some **Source Object Set (SOS)** (which in OPM is also considered to be an Object). In many cases the invocation of a process that creates the target object also creates other objects, so the target object is part of a **TYarget Object Set (TOS)** (which also is an Object in OPM).
 
 In essence, this is also the way most build/make systems work in which we define dependency rules and operations that needs to be performed to create a target depending on one or more sources, with the exception that in OPM also the Process itself and the Parameter list are objects and can be target objects which themselves are results of the invocation of other processes to recreate the target, and so on.
 
-Second, the OPM model has a finer granularity of object dependency then traditional build tools (which work on flat files) as source text is not stored as modules, but as individual objects in its grammatical, renormalized form (an Abstract Syntax Tree - AST), so the dependencies are not just defined on the level of modules (files) but on the level of objects.
+Second, the OPM model has a finer granularity of object dependency then traditional build tools (which work on flat files) as source text is not stored as modules, but as individual objects in its grammatical, renormalized form as an **Abstract Syntax Tree (AST)**, so the dependencies are not just defined on the level of modules (files) but on the level of objects.
 
 ## Further reading
 
