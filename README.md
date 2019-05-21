@@ -12,11 +12,19 @@ Start date: 21 may 2019
 
 ## Short Description
 
-*Object Process Model* (OPM) aims to be an **Integrated Development Environment** (IDE), but contrary to most other IDE's works with a storage format of the source code in a relational database (in renormalized/grammatical format) instead of a flat file system, quite similar to that of **Intentional Programming (See: [IP]**).
+*Object Process Model* (OPM) aims to be an **Integrated Development Environment** (IDE), but contrary to most other IDE's works with a storage format of the source code in a relational database (in renormalized/grammatical format) instead of a flat file system, quite similar to the concept of **Intentional Programming (See: [IP]**).
 
 [IP]: https://en.wikipedia.org/wiki/Intentional_programming "Intentional Programming"
 
 An advantage of this approach is that a versioning system and build system can be built quite easiliy on top of OPM and be integral part of the IDE, where most other IDE's would rely on external tools for a versioning- and build system.
+
+Also Issue Tracking (IT) and Change Management (CM) can be built quite easy on top of OPM.
+
+## OPM
+
+The Object Process Model starts out from the basic idea that a target Object is the result of the invocation of (some version) of a Process (which in OPM is an Object), using some input parameter set (which in OPN is also considered an Object) and some source object set (which in OPM is also considered to be an Object). In many cases the invocation of a process that creates the target object also creates other objects, so the target object is part of a list of output objects (which also is an Object in OPM).
+
+In essence, this is also the way most build/make systems work in which we define dependency rules and operations that needs to be performed to create a target depending on one or more sources, with the exception that in OPM also the Process itself and the Parameter list are objects and can be target objects which itself are results of the invocation of other processes to recreate the target.
 
 ## Further reading
 
