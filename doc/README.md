@@ -1,5 +1,5 @@
 # Documentation for OPM
 
-[Object Process Model](OPM.md)
+1. [Object Process Model](OPM.md)
 
-[Relational Sofware Management System](RSMS.md)
+2. [Relational Sofware Management System](RSMS.md)
