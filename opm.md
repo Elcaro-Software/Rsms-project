@@ -71,9 +71,27 @@ Placing code in a versioning system does not rely on external tools, but is an i
 
 Also the build system is integral part of the OPM IDE, and does not rely on external build tools. 
 
-2. **Internationalization**
+2. **Customization**
 
-When working with international teams with different national languages and different coding styles, OPM facilitates to enter and view the code using individual preferences so that naming of variables and even language keywords and code formatting can be adjusted to personal preference. This also extends to code documentation (code comments and external documentation). 
+The OPM IDE can be customized for working with large, international developing groups which have different national languages, use different coding standards and use different programming languages and work on different platforms/architectures and operating systems.
+
+* *Internationalisation*
+
+When working with international teams with different national languages OPM facilitates to enter and view the code using individual preferences so that naming of variables and even language keywords and code formatting can be adjusted to personal preference. 
+
+This also extends to code documentation (code comments and external documentation), although manual translations are still mandatory.
+
+* *Coding and naming standards* 
+
+Can be adjusted to personal preference.
+
+* *Mixed programming languages*
+
+OPM allows for more sophisticated usage of multiple programming languages.
+
+* *Portability*
+
+OPM supports different platforms/architectures and operating systems.
 
 3. **Integration with external tools**
 
