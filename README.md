@@ -22,7 +22,7 @@ An advantage of this approach is that a versioning system and build system can b
 
 Also **Issue Tracking (IT)** and **Change Management (CM)** can be built quite easy on top of OPM. A change in **CM** is the resolution for one or more issues in **IT** and an issue is resolved by one or more changes. A **User Session (US)** is applied to a repository to implement one or more changes, and a change can be implemented using one or more **User Sessions** on the repository.
 
-## OPM
+## Object Process Model (OPM)
 
 First, the *Object Process Model* starts out from the basic idea that a **Target Object (TO)** is the result of the invocation of (some version) of a **Process Object (PO)** (which in OPM is an Object), using some **Input Parameter Set (IPS)** (which in OPM is also considered an Object) and some **Source Object Set (SOS)** (which in OPM is also considered to be an Object). In many cases the invocation of a process that creates the target object also creates other objects, so the target object is part of a **Target Object Set (TOS)** (which also is an Object in OPM).
 
@@ -31,6 +31,10 @@ In essence, this is also the way most build/make systems work in which we define
 The difference though is that in OPM already during editting of the source text, whenever you use objects defined in some other module, this provides the information about the dependency between the object in one module and objects in other modules, and that meta-information gets stored during editting, which the internal build system of OPM uses. In traditional file based build systems that information needs to be provided explicitly in the make/build script, introducing possible errors like forgetting to include one or more dependencies in the build/make script.
 
 Second, the OPM model has a finer granularity of object dependency then traditional build tools (which work on flat files) as source text is not stored as modules, but as individual objects in its grammatical, renormalized form as an **Abstract Syntax Tree (AST)**, so the dependencies are not just defined on the level of modules (files) but on the level of objects.
+
+## Relational Software Management System (RSMS)
+
+A *Relational Software Management System* is a software management system that provides ways to enter, change and transform software sources, keep track of changes and build a software system based on an internal storage format for the software sources and accompanying meta-information in an **Relational Database Management System (RDBMS)**.
 
 ## Further reading
 
