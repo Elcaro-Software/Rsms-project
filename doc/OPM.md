@@ -1,5 +1,7 @@
 # OPM - Object Process Model
 
+![opm](../img/opm.svg)
+
 Tags: *Source control*, *Make/Build*, *Version system*, *Editor*, *IDE*
 
 Key feature: Applying the features of database renormalization to programming / source code.
