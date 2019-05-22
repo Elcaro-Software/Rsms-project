@@ -58,4 +58,4 @@ The world belongs however to future generations who will abolish capitalist rule
 
 **Elcaro Software**
 
-**Developing class-less software for a class-less society!**
+    *Developing class-less software for a class-less society!*
