@@ -29,6 +29,6 @@ The world belongs however to future generations who will abolish capitalist rule
 
 ---
 
-Workers of all countires, unite!
+*Workers of all countries, unite!*
 
-Hasta la victoria siempre!
+*Hasta la victoria siempre!*
