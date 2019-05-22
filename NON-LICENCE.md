@@ -32,7 +32,7 @@ Ownership rights on the fruits of other peoples labor or on nature, are void and
 
 Under capitalist rule however, the rights of the capitalist owners of the means of production and exploiters of nature and labor, are more and better protected then that of nature and labor. Nature and labor suffer under this system of capitalist exploitation which only serves the rights of the capitalist owners of the means of production.
 
-Capitalism is destroying nature and the live of human beings daily on unprecedented scale, and puts human civilization and nature at great risk of destruction, and is thereby denying many (including future generations) the right to exist and the right to live a life worth living.
+Capitalism is destroying nature and the lives of human beings daily on unprecedented scale, and puts human civilization and nature at great risk of destruction, and is thereby denying many (including future generations) the right to exist and the right to live a life worth living.
 
 The world belongs however to future generations who will abolish capitalist rule over labor and nature, and release humanity of the burden to have to sustain an unsustainable exploitative system that destroys nature and puts the lives of all humanity at risk.
 
@@ -41,3 +41,5 @@ The world belongs however to future generations who will abolish capitalist rule
 *Workers of all countries, unite!*
 
 *Hasta la victoria siempre!*
+
+*Socialisme o Muerto. Venceremos!*
