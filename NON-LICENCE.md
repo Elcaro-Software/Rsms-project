@@ -27,7 +27,7 @@ More generally, what is denied also is that there exists the licence or right to
 * Exploit nature and/or people.
 * Privately own (the fruits of) nature and (other peoples) human labor.
 
-## *Nobody has the right to privately own the fruits of nature and others people labor.*
+# Nobody has the right to privately own the fruits of nature and/or others people labor.
 
 Nature does not have an owner - it belongs to anyone and all of us, and we all depend on it.
 
@@ -58,4 +58,4 @@ The world belongs however to future generations who will abolish capitalist rule
 
 **Elcaro Software**
 
-    *Developing class-less software for a class-less society!*
+    Developing class-less software for a class-less society!
