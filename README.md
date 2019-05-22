@@ -36,13 +36,11 @@ not what you want. The explenation above is just a simple model of the system, l
 In a realistic setup of OPM we will of course have setup preventive measures against unwanted automatic 
 rebuilds. We can for example statically bind the target object set to a specific version of the compiling 
 process, and even specific versions of the input parameter set (or parameters there-in) or set of 
-source objects (or objects there-in), as versions of objects don't change, only the object itself gets 
-new versions.
+source objects (or objects there-in).
 
 Under normal operations, the object version does not change, only newer versions of that object become 
-available.
-In exceptional cases under abornormal circumstances (f.i. some malfunction) we could need to change 
-historic versions. This already necessitates manual intervention, and the process of re-compiling/
+available. In exceptional cases under abornormal circumstances (f.i. some malfunction) we could need to 
+change historic versions. This already necessitates manual intervention, and the process of re-compiling/
 re-building then also is under manual control.
 ```
 
