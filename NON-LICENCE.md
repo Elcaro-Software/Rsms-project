@@ -42,4 +42,4 @@ The world belongs however to future generations who will abolish capitalist rule
 
 *Hasta la victoria siempre!*
 
-*Socialisme o Muerto. Venceremos!*
+*Socialismo o Muerte. Venceremos!*
