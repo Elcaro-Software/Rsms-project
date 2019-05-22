@@ -43,3 +43,5 @@ The world belongs however to future generations who will abolish capitalist rule
 *Hasta la victoria siempre!*
 
 *Socialismo o Muerte. Venceremos!*
+
+![Hasta la Victoria Siempre](img/hasta_la_victoria_siempre.jpg)
