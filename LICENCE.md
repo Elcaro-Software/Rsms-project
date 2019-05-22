@@ -16,10 +16,14 @@ What is denied also is that there exists the licence or right to:
 * Privately own the fruits of nature and (other peoples) human labor.
 
 Nobody has the right to privately own the fruits of nature, as nature does not have an owner - it belongs to anyone and all of us, and we all depend on it, and no-one has the right to destroy/exploit nature, thereby destroying the rights of others who depend on nature, to exist.
+
 Every laborer has the right to own the fruits of his/her own labor, as long as that does not deny others the rights to own the fruits of their labor.
+
 Ownership rights on the fruits of other peoples labor or on nature, are void and nullifyable. 
 Under capitalist rule however, the rights of the capitalist owners of the means of production and exploiters of nature and labor, are more protected then that of nature and labor. Destroying nature and the live of human beings daily and denying many (including future generations) the right to exist or the right to live a life worth living.
 
 ---
+
 Workers of all countires, unite!
+
 Hasta la victoria siempre!
