@@ -1,18 +1,11 @@
 # README.md
 
-Project: Relational Software Management System (RSMS)
-
-Project context: **Elcaro project**
-
-Project motto: *Developing class-less software for a class-less society!*
-
-Keywords: *Software Management System*, *Relational System*, *Versioning System*, *Build System*
-
-Status: Unfinished (no code yet). See: [History]
-
-[History]: https://github.com/Elcaro-Software/opm/blob/master/HISTORY.md
-
-Start date: 21 may 2019
+| Project: | Relational Software Management System (RSMS) |
+| Project context: | **Elcaro project** | 
+| Project motto: | *Developing class-less software for a class-less society!* |
+| Keywords: | *Software Management System*, *Relational System*, *Versioning System*, *Build System* |
+| Status: | Unfinished (no code yet). See: [History](HISTORY.md) | 
+| Start date: | 21 may 2019 |
 
 ## Short Description
 
