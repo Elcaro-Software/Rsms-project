@@ -43,7 +43,7 @@ Under capitalist rule however, the rights of the capitalist owners of the means 
 
 Capitalism is destroying nature and the lives of human beings daily on unprecedented scale, and puts human civilization and nature at great risk of destruction, and is thereby denying many (including future generations) the right to exist and the right to live a life worth living.
 
-The world belongs however to future generations who will abolish capitalist rule over labor and nature, and release humanity of the burden to have to sustain an unsustainable exploitative system that destroys nature and puts the lives of all humanity at risk.
+The world, however, belongs to future generations who will abolish capitalist rule over labor and nature, and release humanity of the burden to have to sustain an unsustainable exploitative system that destroys nature and puts the lives of all humanity at risk.
 
 
 ![Hasta la Victoria Siempre](img/hasta_la_victoria_siempre.jpg)
