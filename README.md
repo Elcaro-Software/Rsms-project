@@ -4,7 +4,7 @@ Project: Relational Software Management System (RSMS)
 
 Project context: Elcaro project
 
-Keywords: Software Managament, relational system, versioning system, build system
+Keywords: *Software Management System*, *Relational System*, *Versioning System*, *Build System*
 
 Status: Unfinished (no code yet). See: [History]
 
