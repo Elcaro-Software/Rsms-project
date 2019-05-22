@@ -15,7 +15,11 @@ What is denied also is that there exists the licence or right to:
 * Exploit nature/or and people.
 * Privately own the fruits of nature and (other peoples) human labor.
 
-Nobody has the right to privately own the fruits of nature, as nature does not have an owner - it belongs to anyone and all of us, and we all depend on it, and no-one has the right to destroy/exploit nature, thereby destroying the rights of others who depend on nature, to exist.
+Nobody has the right to privately own the fruits of nature.
+
+Nature does not have an owner - it belongs to anyone and all of us, and we all depend on it.
+
+No-one has the right to destroy/exploit nature, thereby destroying the rights of others who depend on nature, to exist.
 
 Every laborer has the right to own the fruits of his/her own labor, as long as that does not deny others the rights to own the fruits of their labor.
 
