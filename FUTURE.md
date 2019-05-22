@@ -28,7 +28,7 @@ This file describes the bicycle lane and railway track into the future of this r
 ## 3. Full System
 
 * Transactional database SERIALIZABLE
-* Extended support for all major architectures / platforsms / OS's
+* Extended support for all major architectures / platforms / OS's
 * Extended support for aditional programming languages, covering all major programming paradigms, including:
 
   Concatenative languages: Forth, Factor
