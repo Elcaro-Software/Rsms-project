@@ -8,7 +8,7 @@ Nothing in this text explicitly grants or denies you any rights in concern of th
 
 Don't worry, and use and contribute to the repository in any way you seem fit and contributes to the aims and purpose of this project and broader scope of the **Elcaro project**. 
 
-The only exception to the previous is that what is mentioned under the terms of the **Licence Denial** (see below).
+The only exception to the previous is that what is mentioned under the terms of the **Licence Denial** (*see below*).
 
 ---
 
