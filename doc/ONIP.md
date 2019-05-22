@@ -19,7 +19,7 @@ c. We have no detailed knowledge about the implementation of IP
 
 Since the implementation of IP (in the form of DSL's) is not an open/public implementation (except for the few public papers and articles that were published).
 
-Basically this means that in-sofar OPM and IP share features and functionality, the only reason for that is because both rely on a common basic principle, but apart from that any other similarity in features and functionality is pure chance and *not* intentional (pun intended)....
+Basically this means that in-sofar OPM and IP share features and functionality, the only reason for that is because both rely on a common basic principle, but apart from that any other similarity in features and functionality is pure chance and *not* intentional (*pun intended*)....
 
-
-(to be continued some later time...)
+---
+(*to be continued some later time...*)
