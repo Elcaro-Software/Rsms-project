@@ -1,4 +1,4 @@
-# Licence
+# Non-Licence
 
 This text is explenatory and not a juridically binding text, and nothing in this text explicitly grants or rejects you any rights in concern of the usage of this document/code repository.
 
