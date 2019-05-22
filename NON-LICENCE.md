@@ -18,9 +18,12 @@ So, you don't have a licence to:
 What is denied also is that there exists the licence or right to:
 * Exploit nature and/or people.
 * Privately own (the fruits of) nature and (other peoples) human labor.
+
 ---
 
-## *Nobody has the right to privately own the fruits of nature and others people labor.*
+# LICENCE DENIAL
+
+### *Nobody has the right to privately own the fruits of nature and others people labor.*
 
 Nature does not have an owner - it belongs to anyone and all of us, and we all depend on it.
 
