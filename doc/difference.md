@@ -6,6 +6,7 @@ triggers the build system to recompile/rebuild (part of the) deliverable/target 
 | Change   | Relational  | Flat-file |
 ---------- | ----------- | --------- |
 | renaming | No          | Yes       |
+| commenting | No        | Yes       |
 | refactoring | No       | Yes       |
 
 
