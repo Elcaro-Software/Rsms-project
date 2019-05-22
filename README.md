@@ -35,12 +35,14 @@ not what you want. The explenation above is just a simple model of the system, l
 
 In a realistic setup of OPM we will of course have setup preventive measures against unwanted automatic 
 rebuilds. We can for example statically bind the target object set to a specific version of the compiling 
-process, and even specific versions of the input parameter (or paremeters there in) or set of source objects
-(or objechts there in) as versions of objects (normally) don't change, only the object gets new versions.
+process, and even specific versions of the input parameter set (or parameters there-in) or set of 
+source objects (or objects there-in), as versions of objects don't change, only the object itself gets 
+new versions.
 
-In normal operations the object version does not change, only newer versions of that object become available,
-unless in some circumstances (some malfunction) we need to change historic versions, which under normal 
-circumstances does not happen.
+Under normal operations, the object version does not change, only newer versions of that object become available.
+In exceptional cases under abornormal circumstances (f.i. some malfunction) we could need to change historic 
+versions. This already necessitates manual intervention, and the process of re-compiling/re-building then also
+is under manual control.
 ```
 
 The difference though is that in OPM already during editting of the source text, whenever you use objects defined in some other module, this provides the information about the dependency between the object in one module and objects in other modules, and that meta-information gets stored during editting, which the internal build system of OPM uses. In traditional file based build systems that information needs to be provided explicitly in the make/build script, introducing possible errors like forgetting to include one or more dependencies in the build/make script.
