@@ -6,4 +6,4 @@
 
 # Documentation about IP
 
-3. [Death of Computer Languages, birth of IP](birth_of_IP.pdf)
+3. [Death of Computer Languages, birth of Intentional Programming](birth_of_IP.pdf)
