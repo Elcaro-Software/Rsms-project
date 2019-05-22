@@ -29,16 +29,18 @@ First, the *Object Process Model* starts out from the basic idea that a **Target
 In essence, this is also the way most build/make systems work in which we define dependency rules and operations that needs to be performed to create a target depending on one or more sources, with the exception that in OPM also the Process Object itself and the Input Parameter List are objects and can be target objects which themselves are results of the invocation of other processes to recreate the target, and so on.
 
 ```
-    In above example it might be implied that as soon as we for example install a new version of a compiler
-    , any target that was dependend on that compiler will get automatically rebuild. In most cases, that is
-    not what you want. The explenation above is just a simple model of the system, leaving out many details. 
-    In a realistic setup of OPM we will of course have setup preventive measures against unwanted automatic 
-    rebuilds. We can for example statically bind the target object set to a specific version of the compiling 
-    process, and even specific versions of the input parameter (or paremeters there in) or set of source objects
-    (or objechts there in) as versions of objects (normally) don't change, only the object gets new versions. 
-    In normal operations the object version does not change, only newer versions of that object become available,
-    unless in some circumstances (some malfunction) we need to change historic versions, which under normal 
-    circumstances does not happen.
+In above example it might be implied that as soon as we for example install a new version of a compiler, 
+any target that was dependend on that compiler will get automatically rebuild. In most cases, that is
+not what you want. The explenation above is just a simple model of the system, leaving out many details.
+
+In a realistic setup of OPM we will of course have setup preventive measures against unwanted automatic 
+rebuilds. We can for example statically bind the target object set to a specific version of the compiling 
+process, and even specific versions of the input parameter (or paremeters there in) or set of source objects
+(or objechts there in) as versions of objects (normally) don't change, only the object gets new versions.
+
+In normal operations the object version does not change, only newer versions of that object become available,
+unless in some circumstances (some malfunction) we need to change historic versions, which under normal 
+circumstances does not happen.
 ```
 
 The difference though is that in OPM already during editting of the source text, whenever you use objects defined in some other module, this provides the information about the dependency between the object in one module and objects in other modules, and that meta-information gets stored during editting, which the internal build system of OPM uses. In traditional file based build systems that information needs to be provided explicitly in the make/build script, introducing possible errors like forgetting to include one or more dependencies in the build/make script.
