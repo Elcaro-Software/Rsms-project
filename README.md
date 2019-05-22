@@ -14,7 +14,7 @@ Start date: 21 may 2019
 
 ## Short Description
 
-*Object Process Model* (OPM) aims to be an **Integrated Development Environment** (IDE), but contrary to most other IDE's works with a storage format of the source code in a relational database (in renormalized/grammatical format) instead of a flat file system, quite similar to the concept of **Intentional Programming (See: [Intentional Programming](https://en.wikipedia.org/wiki/Intentional_programming "Intentional Programming")**).
+*Object Process Model* (OPM) aims to be an **Integrated Development Environment** (IDE), but contrary to most other IDE's works with a storage format of the source code in a relational database (in renormalized/grammatical format) instead of a flat file system, quite similar to the concept of **Intentional Programming** (See: [Intentional Programming](https://en.wikipedia.org/wiki/Intentional_programming "Intentional Programming")).
 
 An advantage of this approach is that a versioning system and build system can be built quite easiliy on top of OPM and be integral part of the IDE, where most other IDE's would rely on external tools for a versioning- and build system.
 
