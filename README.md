@@ -1,10 +1,10 @@
 # README.md
 
-Project: Elcaro
+Project: Relational Software Management System (RSMS)
 
-Subproject: OPM - Object Process Model
+Project context: Elcaro project
 
-Type: Relational Software Management System (RSMS)
+Keywords: Software Managament, relational system, versioning system, build system
 
 Status: Unfinished (no code yet). See: [History]
 
