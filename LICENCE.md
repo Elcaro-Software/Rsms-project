@@ -20,7 +20,12 @@ Nobody has the right to privately own the fruits of nature, as nature does not h
 Every laborer has the right to own the fruits of his/her own labor, as long as that does not deny others the rights to own the fruits of their labor.
 
 Ownership rights on the fruits of other peoples labor or on nature, are void and nullifyable. 
-Under capitalist rule however, the rights of the capitalist owners of the means of production and exploiters of nature and labor, are more protected then that of nature and labor. Destroying nature and the live of human beings daily and denying many (including future generations) the right to exist or the right to live a life worth living.
+
+Under capitalist rule however, the rights of the capitalist owners of the means of production and exploiters of nature and labor, are more and better protected then that of nature and labor. 
+
+Capitalism is destroying nature and the live of human beings daily on an unprecedented scale, and puts human civilization and nature  and is thereby denying many (including future generations) the right to exist and the right to live a life worth living.
+
+The world belongs however to future generations who will abolish capitalist rule over labor and nature, and release humanity of the burden to have to sustain an unsustainable exploitative system that put the lives of all humanity at risk.
 
 ---
 
