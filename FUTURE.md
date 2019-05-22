@@ -30,18 +30,34 @@ This file describes the bicycle lane and railway track into the future of this r
 * Transactional database SERIALIZABLE
 * Extended support for all major architectures / platforsms / OS's
 * Extended support for aditional programming languages, covering all major programming paradigms, including:
+
   Concatenative languages: Forth, Factor
+
   Functional languages: Haskell, Lisp, Scheme, J, K, APL, Erlang, F#
+  
   Object-oriented: C#, Eiffel, D, Ruby
+  
   Dataflow: Lucid
+  
 * Legacy support for older prog. lang (COBOL, FORTRAN, ALGOL60/68)
-* Full national language & characterset support for all major languages and character sets.
-* Extended user-interface & tool-set
+* Full national language & characterset support for all major languages and character sets. (Adding east-eur languages, like Greek, Serbian, Kroatian, Romanian, Bulgarian, Polish, Chech, Ukranian, Russian, African languages like Amhara, Swahili, Asian languages like Birmese, Tamil, Vietnamese).
+* Extended (graphical) user-interface & tool-set
 
 # STAGES
 
 ## STAGE: PREPARATION
 
+1. Initial documentation describing the general concept & principles of RSMS and OPM and comparsion with:
+* Intentional Programming (IP)
+* Traditional build systems
+* Traditional version systems
+2. Investigation of the most important aspects of:
+* Hardware / architecture / OS /platforms
+* National languages and charactersets
+* Programming languages
+* Build systems
+* Version systems
+3. 
 
 ## STAGE: ANALYSIS
 
@@ -49,7 +65,9 @@ This file describes the bicycle lane and railway track into the future of this r
 ## STAGE: DESIGN
 
 
-## STAGE: DATA MODEL
+## STAGE: IMPLEMENTATION
+
+### DATA MODEL
 
 First step in the implementation is to develop a provisional data-model for OPM (the core system) and add-on systems 
 (like Issue Tracking, Change Management).
@@ -63,5 +81,7 @@ It wil consist of at least:
 Outcomes:
 * E/R definitions & diagrams
 * Table design
+
+### PROCESS MODEL
 
 
