@@ -1,6 +1,6 @@
 # Differences between Relational and traditional (flat-file based) Software Mananegement Systems
 
-## Recompilation/Rebuild
+## 1. Recompilation/Rebuild
 
 An important difference between a relational vs. flat-file based *Software Management Systems* is the way a change in the source code repository triggers the build system to recompile/rebuild (part of the) deliverable/target modules or objects.
 
@@ -11,7 +11,7 @@ An important difference between a relational vs. flat-file based *Software Manag
 | refactoring | No       | Yes       |
 
 
-## Renaming
+### Renaming
 
 In traditional flat-file based *Software Mananagement Systems*, renaming variables/functions is already an error-prone task, since we are dependend on the cleverness of the editor or IDE on how we can search/replace for a specific name in our software repository, and change that name to something else, without touching text with similar/same lexical tokens with different semantic of lexical meaning. Often we get mismatches, as the name might be used as part of other names or in other unrelated contexts (such as comments or as part of a literal string) which we want to avoid.
 
@@ -19,13 +19,13 @@ Second, even if we manage to change the name sucessfully in all instances where 
 
 Clearly, in a relational system, the renaming of objects is a certain match since there is only one place that change is effectively taking place, and does not trigger a recompilation/rebuild of the source code, since all objects are uniquely define by UUID and names are just handy human-readable labels for these objects, but are not used internally by the build system to identify objects.
 
-## Commenting
+### Commenting
 
 Any textual change in a source-text in a traditional flat-file *Software Management System (SMS)* will trigger recompilation of that file, even if that change only involved changes in comments, and not code.
 
 Like in the previous case of renaming objects, in a *Relational Software Management System (RSMS)* a change in comment fields does not change the source-text, and will not trigger recompilation/rebuilding the system.
 
-## Refactoring
+### Refactoring
 
 When relocating a definition of some variable or function from one module to another module, in traditional *SMS* this will be a textual change in both modules, and will trigger - same as the 2 previous examples - these modules to re-compile and will rebuild the system.
 
