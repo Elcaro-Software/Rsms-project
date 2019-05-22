@@ -1,6 +1,10 @@
 # Non-Licence
 
-This text is explenatory and not a juridically binding text, and nothing in this text explicitly grants or denies you any rights in concern of the usage of this document/code repository.
+This text is explenatory and not a juridically binding text.
+
+Nothing in this text explicitly grants or denies you any rights in concern of the usage of this document/code repository.
+
+---
 
 What IS explicitly denied is that you or anyone else has a licence or right to deny us any rights in concern of the usage, contribution and development of this repository.
 
