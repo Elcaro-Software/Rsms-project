@@ -2,7 +2,7 @@
 
 This text is explenatory and not a juridically binding text, and nothing in this text explicitly grants or rejects you any rights in concern of the usage of this document/code repository.
 
-What IS explicityly denied is that you or anyone else has a licence or right to deny us any rights in concern of the usage, contribution and development of this repository.
+What IS explicitly denied is that you or anyone else has a licence or right to deny us any rights in concern of the usage, contribution and development of this repository.
 
 So, you don't have a licence to:
 * Kill us
@@ -15,7 +15,7 @@ What is denied also is that there exists the licence or right to:
 * Exploit nature/or and people.
 * Privately own the fruits of nature and (other peoples) human labor.
 
-Nobody has the right to privately own the fruits of nature.
+### *Nobody has the right to privately own the fruits of nature and others people labor.*
 
 Nature does not have an owner - it belongs to anyone and all of us, and we all depend on it.
 
