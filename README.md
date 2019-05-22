@@ -2,9 +2,9 @@
 
 Project: Relational Software Management System (RSMS)
 
-Project context: Elcaro project
+Project context: **Elcaro project**
 
-Motto: *Class-less Software Development for a class-less society!*
+Project motto: *Class-less Software Development for a class-less society!*
 
 Keywords: *Software Management System*, *Relational System*, *Versioning System*, *Build System*
 
