@@ -1,8 +1,14 @@
 # Non-Licence
 
+---
+
 This text is explenatory and not a juridically binding text.
 
 Nothing in this text explicitly grants or denies you any rights in concern of the usage of this document/code repository.
+
+Don't worry, and use and contribute to the repository in any way you seem fit and contributes to the aims and purpose of this project and broader scope of the **Elcaro project**. 
+
+The only exception to the previous is that what is mentioned under the terms of the Licence denial (see below).
 
 ---
 
@@ -49,3 +55,9 @@ The world belongs however to future generations who will abolish capitalist rule
 *Hasta la victoria siempre!*
 
 *Socialismo o Muerte. Venceremos!*
+
+---
+
+**Elcaro Software**
+
+**Developing class-less software for a class-less society!**
