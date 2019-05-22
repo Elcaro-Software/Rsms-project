@@ -9,7 +9,7 @@ This file describes the bicycle lane and railway track into the future of this r
 * Single user RDBMS as storage system (SQLITE)
 * Support for (at least) 1 programming language, in 1 familiy, in 1 dialect and 1 flavour (GNU C - C11)
 * Support for (at least) 1 architecture / OS (Ubuntu 18.04 / Linux ...)
-* Support for *at least) 1 national language / character set
+* Support for (at least) 1 national language / character set
 * Command-line interface only
 * Various accompanying tools
 
