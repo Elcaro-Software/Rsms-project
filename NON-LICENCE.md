@@ -8,28 +8,26 @@ Nothing in this text explicitly grants or denies you any rights in concern of th
 
 Don't worry, and use and contribute to the repository in any way you seem fit and contributes to the aims and purpose of this project and broader scope of the **Elcaro project**. 
 
-The only exception to the previous is that what is mentioned under the terms of the Licence denial (see below).
+The only exception to the previous is that what is mentioned under the terms of the **Licence Denial** (see below).
 
 ---
 
+# LICENCE DENIAL
+
 What IS explicitly denied is that you or anyone else has a licence or right to deny us any rights in concern of the usage, contribution and development of this repository.
 
-So, you don't have a licence to:
+In particulare, you don't have a licence to:
 * Kill us
 * Sue us
 * Penalize us
 * Exploit us
 * Harm us
 
-What is denied also is that there exists the licence or right to:
+More generally, what is denied also is that there exists the licence or right to:
 * Exploit nature and/or people.
 * Privately own (the fruits of) nature and (other peoples) human labor.
 
----
-
-# LICENCE DENIAL
-
-### *Nobody has the right to privately own the fruits of nature and others people labor.*
+## *Nobody has the right to privately own the fruits of nature and others people labor.*
 
 Nature does not have an owner - it belongs to anyone and all of us, and we all depend on it.
 
