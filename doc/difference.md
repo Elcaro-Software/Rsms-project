@@ -37,7 +37,7 @@ The binding between a software component/object in a relational SMS and a module
 
 For obvious reasons (primarily for compatibility and inter-operatibility with existing SMS's) in many cases we want to statically bind the object to some specific module, but as far as the RSMS is concerned, this placement is totally arbitrary and does not have to be a static binding.  We could imagine that the placement of an object in a module is not a static binding but a dynamic one, and the grouping of objects over modules be decided dynamically based on the relations between objects.
 
-For example, if we have objects a, b and c and d and e, and b and c depend on a and e depends on d, with no further dependency, it would make sense to place a, b and c in one module and d and e in another module.
+For example, if we have objects **a**, **b** and **c** and **d** and **e**, and **b** and **c** depend on **a** and **e** depends on **d**, with no further dependency, it would make sense to place **a**, **b** and **c** in one module and **d** and **e** in another module.
 
 This feature of a RSMS makes it possible to implement clever algorythms to decide the grouping of objects over modules and even to have simultaneously multiple groupings of objects over modules, defined as different views over the same code repository, without the need of physical duplication of the source-code repository.
 
